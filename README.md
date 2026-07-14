@@ -1,5 +1,4 @@
-# Machinr Learning App
-
+#  ❤️ Heart Disease Prediction
 A Machine Learning web application that predicts whether a patient is at risk of heart disease based on clinical and health-related parameters. The project includes complete data preprocessing, model training, evaluation, and an interactive Streamlit web application for real-time predictions.
 
 # App
